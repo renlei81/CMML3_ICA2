@@ -7,10 +7,10 @@ This project benchmarks the performance of **scAtlasVAE**, **scVI**, and **Harmo
 
 ## 📁 Repository Structure
 
-CMML3_ICA2/
-├── Data/ # files are too large, which can be found in https://figshare.com/articles/MCA_DGE_Data/5435866
-├── Scripts/ # Preprocessing, integration, and evaluation scripts
-├── Figure/ # UMAP visualizations and metric summary plots
+CMML3_ICA2 /
+├── Data / # files are too large, which can be found in https://figshare.com/articles/MCA_DGE_Data/5435866
+├── Scripts / # Preprocessing, integration, and evaluation scripts
+├── Figure / # UMAP visualizations and metric summary plots
 └── README.md # Project documentation
 
 ---
